@@ -1,0 +1,8 @@
+digraph G {
+4->3[label = created]
+6->3[label = created]
+1->2[label = knows]
+1->4[label = knows]
+1->3[label = created]
+4->5[label = created]
+}
